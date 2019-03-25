@@ -1,0 +1,8 @@
+C:\Users\ASUS\Desktop\CodeIT.Airlines.Challenge\CodeIT.AirLines.Challenge.Tests\bin\Debug\CodeIT.AirLines.Challenge.Tests.dll
+C:\Users\ASUS\Desktop\CodeIT.Airlines.Challenge\CodeIT.AirLines.Challenge.Tests\bin\Debug\CodeIT.AirLines.Challenge.Tests.pdb
+C:\Users\ASUS\Desktop\CodeIT.Airlines.Challenge\CodeIT.AirLines.Challenge.Tests\bin\Debug\CodeIT.Airlines.Challenge.exe
+C:\Users\ASUS\Desktop\CodeIT.Airlines.Challenge\CodeIT.AirLines.Challenge.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ASUS\Desktop\CodeIT.Airlines.Challenge\CodeIT.AirLines.Challenge.Tests\bin\Debug\CodeIT.Airlines.Challenge.pdb
+C:\Users\ASUS\Desktop\CodeIT.Airlines.Challenge\CodeIT.AirLines.Challenge.Tests\obj\Debug\CodeIT.AirLines.Challenge.Tests.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\CodeIT.Airlines.Challenge\CodeIT.AirLines.Challenge.Tests\obj\Debug\CodeIT.AirLines.Challenge.Tests.dll
+C:\Users\ASUS\Desktop\CodeIT.Airlines.Challenge\CodeIT.AirLines.Challenge.Tests\obj\Debug\CodeIT.AirLines.Challenge.Tests.pdb

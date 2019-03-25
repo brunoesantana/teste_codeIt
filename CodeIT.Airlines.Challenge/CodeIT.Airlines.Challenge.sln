@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeIT.Airlines.Challenge", "CodeIT.Airlines.Challenge\CodeIT.Airlines.Challenge.csproj", "{D7B65FF4-6BE6-467D-9A6E-16B61D9CFED9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeIT.AirLines.Challenge.Tests", "CodeIT.AirLines.Challenge.Tests\CodeIT.AirLines.Challenge.Tests.csproj", "{02B58AC8-9031-4F5C-A974-56C8970FB915}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7B65FF4-6BE6-467D-9A6E-16B61D9CFED9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7B65FF4-6BE6-467D-9A6E-16B61D9CFED9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7B65FF4-6BE6-467D-9A6E-16B61D9CFED9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7B65FF4-6BE6-467D-9A6E-16B61D9CFED9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02B58AC8-9031-4F5C-A974-56C8970FB915}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02B58AC8-9031-4F5C-A974-56C8970FB915}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02B58AC8-9031-4F5C-A974-56C8970FB915}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02B58AC8-9031-4F5C-A974-56C8970FB915}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

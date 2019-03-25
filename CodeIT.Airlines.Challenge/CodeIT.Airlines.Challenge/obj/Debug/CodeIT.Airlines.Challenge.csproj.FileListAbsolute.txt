@@ -1,0 +1,5 @@
+C:\Users\ASUS\Desktop\CodeIT.Airlines.Challenge\CodeIT.Airlines.Challenge\bin\Debug\CodeIT.Airlines.Challenge.exe.config
+C:\Users\ASUS\Desktop\CodeIT.Airlines.Challenge\CodeIT.Airlines.Challenge\bin\Debug\CodeIT.Airlines.Challenge.exe
+C:\Users\ASUS\Desktop\CodeIT.Airlines.Challenge\CodeIT.Airlines.Challenge\bin\Debug\CodeIT.Airlines.Challenge.pdb
+C:\Users\ASUS\Desktop\CodeIT.Airlines.Challenge\CodeIT.Airlines.Challenge\obj\Debug\CodeIT.Airlines.Challenge.exe
+C:\Users\ASUS\Desktop\CodeIT.Airlines.Challenge\CodeIT.Airlines.Challenge\obj\Debug\CodeIT.Airlines.Challenge.pdb
